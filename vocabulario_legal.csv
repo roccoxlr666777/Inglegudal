@@ -115,3 +115,68 @@ Although,Conjunciones (Legales),Aunque
 A,Artículos (Indefinidos),Un / Una (A contract)
 An,Artículos (Indefinidos),Un / Una (An affidavit)
 The,Artículos (Definidos),El / La / Los / Las (The Court)
+Agreement,Sustantivos (Contratos),Acuerdo / Convenio
+Contract,Sustantivos (Contratos),Contrato
+Clause,Sustantivos (Contratos),Cláusula
+Provision,Sustantivos (Contratos),Disposición / Estipulación
+Liability,Sustantivos (Contratos),Responsabilidad legal / Pasivo
+Indemnity,Sustantivos (Contratos),Indemnización
+Warranty,Sustantivos (Contratos),Garantía
+Waiver,Sustantivos (Contratos),Renuncia (de un derecho)
+Settlement,Sustantivos (Contratos),Acuerdo extrajudicial / Finiquito
+Damages,Sustantivos (Contratos),Daños y perjuicios
+Asset,Sustantivos (Corporativo),Activo / Bien
+Bankruptcy,Sustantivos (Corporativo),Bancarrota / Quiebra
+Shareholder,Sustantivos (Corporativo),Accionista
+Stakeholder,Sustantivos (Corporativo),Parte interesada
+Merger,Sustantivos (Corporativo),Fusión (de empresas)
+Acquisition,Sustantivos (Corporativo),Adquisición
+Monopoly,Sustantivos (Corporativo),Monopolio
+Trademark,Sustantivos (Corporativo),Marca registrada
+Copyright,Sustantivos (Corporativo),Derechos de autor
+Patent,Sustantivos (Corporativo),Patente
+Real estate,Sustantivos (Propiedad),Bienes raíces / Inmuebles
+Landlord,Sustantivos (Propiedad),Propietario / Arrendador
+Tenant,Sustantivos (Propiedad),Inquilino / Arrendatario
+Lease,Sustantivos (Propiedad),Arrendamiento / Contrato de alquiler
+Eviction,Sustantivos (Propiedad),Desalojo / Lanzamiento
+Mortgage,Sustantivos (Propiedad),Hipoteca
+Deed,Sustantivos (Propiedad),Escritura pública
+Alimony,Sustantivos (Familia),Pensión alimenticia (para el cónyuge)
+Child support,Sustantivos (Familia),Pensión alimenticia (para los hijos)
+Custody,Sustantivos (Familia),Custodia
+Divorce,Sustantivos (Familia),Divorcio
+Inheritance,Sustantivos (Familia),Herencia
+Will,Sustantivos (Familia),Testamento
+Trust,Sustantivos (Familia),Fideicomiso
+Heir,Sustantivos (Familia),Heredero
+Negotiate,Verbos (Civil y Contratos),Negociar
+Draft,Verbos (Civil y Contratos),Redactar (un documento/contrato)
+Execute,Verbos (Civil y Contratos),Firmar / Formalizar (un contrato)
+Terminate,Verbos (Civil y Contratos),Rescindir / Terminar
+Waive,Verbos (Civil y Contratos),Renunciar a (un derecho)
+Indemnify,Verbos (Civil y Contratos),Indemnizar
+Arbitrate,Verbos (Civil y Contratos),Arbitrar
+Mediate,Verbos (Civil y Contratos),Mediar
+Litigate,Verbos (Civil y Contratos),Litigar
+Settle,Verbos (Civil y Contratos),Llegar a un acuerdo / Transigir
+Appeal,Verbos (Civil y Contratos),Apelar
+Foreclose,Verbos (Civil y Contratos),Ejecutar una hipoteca
+Evict,Verbos (Civil y Contratos),Desalojar
+Nullify,Verbos (Civil y Contratos),Anular / Invalidar
+Binding,Adjetivos (Contratos),Vinculante / Obligatorio
+Null,Adjetivos (Contratos),Nulo
+Void,Adjetivos (Contratos),Sin valor legal / Inválido
+Punitive,Adjetivos (Daños),Punitivo (Ej. Punitive damages)
+Compensatory,Adjetivos (Daños),Compensatorio
+Statutory,Adjetivos (Legal),Estatutario / Establecido por ley
+Equitable,Adjetivos (Legal),Equitativo / Justo (en equity)
+Intangible,Adjetivos (Corporativo),Intangible
+Insolvent,Adjetivos (Corporativo),Insolvente
+Herein,Adverbios (Contractuales),En el presente (documento)
+Therein,Adverbios (Contractuales),En ese (documento/lugar)
+Wherein,Adverbios (Contractuales),En donde / En el cual
+Hereafter,Adverbios (Contractuales),En lo sucesivo / De aquí en adelante
+Heretofore,Adverbios (Contractuales),Hasta ahora / Anteriormente
+Accordingly,Adverbios (Contractuales),En conformidad / Por consiguiente
+Notwithstanding,Adverbios (Contractuales),A pesar de / No obstante
