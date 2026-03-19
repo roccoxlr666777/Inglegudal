@@ -163,7 +163,7 @@ formatos = {
         **JUDGE:** Objection sustained. The witness may not testify until the defense has had proper time to review the report.
         **PROSECUTOR:** Understood, Your Honor. We request a brief recess to provide the documents to the defense counsel.
         """
-    }
+    },
     "Denuncia Penal (Criminal Complaint)": {
         "Plantilla": """
         **CRIMINAL COMPLAINT**
