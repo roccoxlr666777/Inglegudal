@@ -164,6 +164,120 @@ formatos = {
         **PROSECUTOR:** Understood, Your Honor. We request a brief recess to provide the documents to the defense counsel.
         """
     }
+    "Denuncia Penal (Criminal Complaint)": {
+        "Plantilla": """
+        **CRIMINAL COMPLAINT**
+        
+        **TO THE OFFICE OF THE PROSECUTOR / A LA FISCALÍA:**
+        
+        I, [Insert your name / Escribe tu nombre], residing at [Insert your address / Escribe tu dirección], under penalty of perjury, hereby file this criminal complaint against [Insert Suspect's Name / Nombre del sospechoso] for the crime of [Insert Crime, e.g., Fraud, Larceny / Escribe el delito].
+        
+        **STATEMENT OF FACTS:**
+        On [Insert Date / Fecha], the aforementioned individual did unlawfully [Describe the criminal act / Describe el acto delictivo]. 
+        
+        I respectfully request that a formal investigation be opened and an arrest warrant be issued if probable cause is found.
+        """,
+        "Completo": """
+        **CRIMINAL COMPLAINT**
+        
+        **TO THE OFFICE OF THE PROSECUTOR:**
+        
+        I, Jane Doe, residing at 123 Main Street, Puebla, under penalty of perjury, hereby file this criminal complaint against John Smith for the crime of Embezzlement.
+        
+        **STATEMENT OF FACTS:**
+        On October 15, 2025, the aforementioned individual, while acting as the financial director of our company, did unlawfully transfer $50,000 USD from the corporate account to his personal offshore account without authorization.
+        
+        I respectfully request that a formal investigation be opened and an arrest warrant be issued if probable cause is found.
+        """
+    },
+    "Habeas Data (Data Protection Request)": {
+        "Plantilla": """
+        **PETITION FOR HABEAS DATA / ARCO RIGHTS EXERCISE**
+        
+        **TO: [Insert Company or Agency Name / Nombre de la empresa o agencia]**
+        
+        Pursuant to the Data Protection Laws, I, [Insert your name / Tu nombre], hereby exercise my right of [Access / Rectification / Cancellation / Opposition].
+        
+        I request that your organization immediately [Describe the action: e.g., delete my personal data, provide a copy of my records / Describe la acción solicitada] regarding the information held under the account number [Insert Account or ID Number / Número de cuenta o ID].
+        
+        Failure to comply within the statutory timeframe will result in formal complaints filed before the National Data Protection Authority.
+        """,
+        "Completo": """
+        **PETITION FOR HABEAS DATA / ARCO RIGHTS EXERCISE**
+        
+        **TO: Global Credit Bank**
+        
+        Pursuant to the Data Protection Laws, I, Richard Roe, hereby exercise my right of Cancellation.
+        
+        I request that your organization immediately delete all my personal and financial data regarding the information held under the account number 987654321, as my contractual relationship with your bank was terminated over five years ago.
+        
+        Failure to comply within the statutory timeframe will result in formal complaints filed before the National Data Protection Authority.
+        """
+    },
+    "Carta de Cese y Desistimiento (Cease and Desist Letter)": {
+        "Plantilla": """
+        **CEASE AND DESIST LETTER**
+        
+        **VIA CERTIFIED MAIL**
+        
+        Dear [Insert Name of the Infringer / Nombre del infractor]:
+        
+        This law firm represents [Insert Client's Name / Nombre de tu cliente]. It has come to our attention that you are currently engaging in [Describe the illegal activity, e.g., trademark infringement, harassment / Describe la actividad ilícita].
+        
+        We hereby demand that you immediately **CEASE AND DESIST** from this activity. If you fail to comply by [Insert Deadline / Fecha límite], we will have no choice but to pursue all available legal remedies against you, including filing a lawsuit for damages and seeking a preliminary injunction.
+        
+        Govern yourself accordingly.
+        """,
+        "Completo": """
+        **CEASE AND DESIST LETTER**
+        
+        **VIA CERTIFIED MAIL**
+        
+        Dear Mr. John Smith:
+        
+        This law firm represents Acme Corporation. It has come to our attention that you are currently engaging in trademark infringement by using our client's registered logo on your counterfeit products.
+        
+        We hereby demand that you immediately **CEASE AND DESIST** from this activity. If you fail to comply by Friday, October 31st, we will have no choice but to pursue all available legal remedies against you, including filing a lawsuit for damages and seeking a preliminary injunction.
+        
+        Govern yourself accordingly.
+        """
+    },
+    "Sentencia Civil (Civil Judgment)": {
+        "Plantilla": """
+        **IN THE [Insert Court Name / Nombre del Tribunal]**
+        
+        **FINAL JUDGMENT**
+        
+        This matter came before the Court on [Insert Date of Trial / Fecha del juicio]. After considering the pleadings, evidence, and testimony presented by both Plaintiff [Insert Plaintiff's Name / Actor] and Defendant [Insert Defendant's Name / Demandado], the Court finds as follows:
+        
+        **IT IS HEREBY ORDERED AND ADJUDGED:**
+        1. That judgment is entered in favor of the [Plaintiff/Defendant / Escribe quién gana].
+        2. That the Defendant shall pay the Plaintiff the sum of $[Insert Amount / Cantidad] in compensatory damages.
+        3. This case is hereby dismissed with prejudice.
+        
+        **SO ORDERED** this [Insert Date / Fecha de firma].
+        
+        ___________________________
+        **HON. [Insert Judge's Name / Nombre del Juez]**
+        """,
+        "Completo": """
+        **IN THE DISTRICT COURT OF PUEBLA**
+        
+        **FINAL JUDGMENT**
+        
+        This matter came before the Court on October 20, 2025. After considering the pleadings, evidence, and testimony presented by both Plaintiff Acme Corp. and Defendant Global Supplies Inc., the Court finds as follows:
+        
+        **IT IS HEREBY ORDERED AND ADJUDGED:**
+        1. That judgment is entered in favor of the Plaintiff.
+        2. That the Defendant shall pay the Plaintiff the sum of $150,000 USD in compensatory damages for breach of contract.
+        3. This case is hereby dismissed with prejudice.
+        
+        **SO ORDERED** this 25th day of October, 2025.
+        
+        ___________________________
+        **HON. JANE DOE**
+        """
+    }
 }
 # Agrega aquí Reportes, Sentencias, Cartas, etc., siguiendo el mismo formato de Diccionario.
 
