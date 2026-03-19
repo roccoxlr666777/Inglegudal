@@ -1,0 +1,117 @@
+Palabra en Inglés,Categoría Gramatical,Traducción
+Lawsuit,Sustantivos (Procedimiento),Demanda / Litigio
+Subpoena,Sustantivos (Procedimiento),Citatorio (Bajo pena)
+Affidavit,Sustantivos (Documentos),Declaración jurada por escrito
+Warrant,Sustantivos (Documentos),Orden judicial / Orden de arresto
+Verdict,Sustantivos (Procedimiento),Veredicto
+Acquittal,Sustantivos (Procedimiento),Absolución
+Indictment,Sustantivos (Procedimiento),Acusación formal (Penal)
+Injunction,Sustantivos (Procedimiento),Mandato judicial / Medida cautelar
+Testimony,Sustantivos (Evidencia),Testimonio
+Hearsay,Sustantivos (Evidencia),Testimonio de oídas / Rumor
+Plaintiff,Sustantivos (Sujetos),Actor / Demandante (Civil)
+Defendant,Sustantivos (Sujetos),Demandado / Acusado
+Prosecutor,Sustantivos (Sujetos),Fiscal / Ministerio Público
+Attorney,Sustantivos (Sujetos),Abogado
+Jury,Sustantivos (Sujetos),Jurado
+Magistrate,Sustantivos (Sujetos),Magistrado
+Witness,Sustantivos (Sujetos),Testigo
+Bailiff,Sustantivos (Sujetos),Alguacil
+Appelant,Sustantivos (Sujetos),Apelante
+Felony,Sustantivos (Penal),Delito mayor
+Misdemeanor,Sustantivos (Penal),Delito menor
+Treason,Sustantivos (Penal),Traición
+Bribery,Sustantivos (Penal),Soborno / Cohecho
+Perjury,Sustantivos (Penal),Perjurio / Falsedad de declaración
+Embezzlement,Sustantivos (Penal),Malversación de fondos
+Larceny,Sustantivos (Penal),Hurto
+Arson,Sustantivos (Penal),Incendio provocado
+Fraud,Sustantivos (Penal),Fraude
+Manslaughter,Sustantivos (Penal),Homicidio culposo
+Murder,Sustantivos (Penal),Asesinato / Homicidio doloso
+Appeal,Verbos (Procedimiento),Apelar
+Testify,Verbos (Procedimiento),Testificar
+Overrule,Verbos (Procedimiento),Desestimar / Rechazar (una objeción)
+Sustain,Verbos (Procedimiento),Sostener / Dar a lugar (una objeción)
+Dismiss,Verbos (Procedimiento),Desestimar (un caso)
+Acquit,Verbos (Procedimiento),Absolver
+Convict,Verbos (Procedimiento),Condenar
+Sentenced,Verbos (Procedimiento),Sentenciar
+Prosecute,Verbos (Procedimiento),Procesar / Enjuiciar
+Subpoena,Verbos (Procedimiento),Citar legalmente
+Sue,Verbos (Procedimiento),Demandar (Civil)
+Plead,Verbos (Procedimiento),Declararse (Culpable/Inocente)
+Cross-examine,Verbos (Procedimiento),Contrainterrogar
+Object,Verbos (Procedimiento),Objetar
+Adjourn,Verbos (Procedimiento),Suspender / Levantar la sesión
+Nullify,Verbos (Acciones Legales),Anular
+Draft,Verbos (Acciones Legales),Redactar (un documento)
+Enforce,Verbos (Acciones Legales),Hacer cumplir (la ley)
+Breach,Verbos (Acciones Legales),Incumplir / Violar (un contrato)
+Infringe,Verbos (Acciones Legales),Infringir (derechos de autor/patentes)
+Liable,Adjetivos (Responsabilidad),Responsable (Legalmente/Civilmente)
+Guilty,Adjetivos (Responsabilidad),Culpable (Penalmente)
+Innocent,Adjetivos (Responsabilidad),Inocente
+Negligent,Adjetivos (Responsabilidad),Negligente
+Culpable,Adjetivos (Responsabilidad),Culpable / Reprochable
+Valid,Adjetivos (Documentos),Válido
+Void,Adjetivos (Documentos),Nulo
+Binding,Adjetivos (Documentos),Vinculante / Obligatorio
+Statutory,Adjetivos (Tipos de Ley),Estatutario / Legal
+Constitutional,Adjetivos (Tipos de Ley),Constitucional
+Unlawful,Adjetivos (Calificativos),Ilegal / Ilícito
+Malicious,Adjetivos (Calificativos),Malicioso / Doloso
+Premeditated,Adjetivos (Calificativos),Premeditado
+Admissible,Adjetivos (Evidencia),Admisible (en juicio)
+Inadmissible,Adjetivos (Evidencia),Inadmisible
+Beyond,Preposiciones (Legales),Más allá de (Beyond reasonable doubt)
+Pursuant to,Preposiciones (Legales),En conformidad con
+Pending,Preposiciones (Legales),En espera de / Pendiente de
+Notwithstanding,Preposiciones (Legales),A pesar de / Sin perjuicio de
+On behalf of,Preposiciones (Legales),En representación de
+I,Pronombres (Personales Sujeto),Yo
+You,Pronombres (Personales Sujeto),Tú / Usted
+He,Pronombres (Personales Sujeto),Él
+She,Pronombres (Personales Sujeto),Ella
+It,Pronombres (Personales Sujeto),Ello / Eso (La corporación/El tribunal)
+We,Pronombres (Personales Sujeto),Nosotros
+They,Pronombres (Personales Sujeto),Ellos (Los demandados/El jurado)
+Whom,Pronombres (Relativos),A quien (To whom it may concern)
+Which,Pronombres (Relativos),El cual / La cual
+Who,Pronombres (Relativos),Quien
+Whoever,Pronombres (Relativos),Quienquiera (que cometa un delito)
+Whatever,Pronombres (Relativos),Lo que sea (Cualquier daño)
+My,Pronombres (Posesivos),Mi (Mi cliente)
+Your,Pronombres (Posesivos),Tu / Su (Su Señoría / Your Honor)
+His,Pronombres (Posesivos),Su (de él)
+Her,Pronombres (Posesivos),Su (de ella)
+Its,Pronombres (Posesivos),Su (de la empresa/estado)
+Our,Pronombres (Posesivos),Nuestro
+Their,Pronombres (Posesivos),Su (de ellos)
+This,Pronombres (Demostrativos),Este (Este documento)
+That,Pronombres (Demostrativos),Ese (Ese precedente)
+Hereby,Adverbios (Jurídicos Especiales),Por la presente
+Thereby,Adverbios (Jurídicos Especiales),De ese modo / Por lo tanto
+Wherein,Adverbios (Jurídicos Especiales),En donde / En el cual
+Heretofore,Adverbios (Jurídicos Especiales),Hasta ahora / Anteriormente
+Hereinafter,Adverbios (Jurídicos Especiales),En adelante / Más abajo
+Thereafter,Adverbios (Jurídicos Especiales),A partir de entonces
+Reasonably,Adverbios (Modo),Razonablemente (Beyond reasonably doubt)
+Maliciously,Adverbios (Modo),Con malicia / Dolosamente
+Willfully,Adverbios (Modo),Intencionalmente / Voluntariamente
+Negligently,Adverbios (Modo),Negligentemente
+Unlawfully,Adverbios (Modo),Ilegalmente
+Allegedly,Adverbios (Grado/Postura),Presuntamente / Supuestamente
+Undoubtedly,Adverbios (Grado/Postura),Indudablemente
+Explicitly,Adverbios (Grado/Postura),Explícitamente
+Implicitly,Adverbios (Grado/Postura),Implícitamente
+Whereas,Conjunciones (Legales),Considerando que
+Therefore,Conjunciones (Legales),Por lo tanto
+However,Conjunciones (Legales),Sin embargo
+Furthermore,Conjunciones (Legales),Además
+Unless,Conjunciones (Legales),A menos que
+Provided that,Conjunciones (Legales),Siempre que / Con la condición de que
+Although,Conjunciones (Legales),Aunque
+A,Artículos (Indefinidos),Un / Una (A contract)
+An,Artículos (Indefinidos),Un / Una (An affidavit)
+The,Artículos (Definidos),El / La / Los / Las (The Court)
